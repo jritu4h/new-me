@@ -1,0 +1,29 @@
+body {
+    font-family: 'Open Sans', sans-serif; 
+}
+.banner {
+    background-color: darkgrey;
+    width: 1500px;
+    height: 400px; 
+    background-image: url("/img/images/banner/banner2-removebg-preview\ \(1\).png");
+    background-repeat: no-repeat;
+    background-position: 15%;
+
+
+}
+.banner-title {
+    color: #151414;
+text-align: right;
+font-size: 25px;
+font-weight: 100px;
+padding-top: 150px;
+padding-right: 150px;
+}
+.banner-para{
+    text-align:right;
+    font-size: 10px;
+    font-weight: 494px;
+    padding-top: 25px;
+    padding-right: 150px;
+    
+}
